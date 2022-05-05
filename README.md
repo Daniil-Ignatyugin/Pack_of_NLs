@@ -1,2 +1,2 @@
 # main
-AI`s for my project "Pack of NL`s"
+AIs for my project "Pack of NLs"
